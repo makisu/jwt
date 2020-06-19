@@ -7,7 +7,7 @@ authors:
 
 dependencies:
   openssl_ext:
-    github: stakach/openssl_ext
+    github: makisu/openssl_ext
     version: ">= 1.2.1, < 1.3"
 
   bindata:
